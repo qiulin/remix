@@ -1,2 +1,2 @@
-# redigon
-a redisson-like redis solution for go
+# redigrid
+a redisson-like redis middleware for go
